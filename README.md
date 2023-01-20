@@ -1,4 +1,4 @@
-# Project Name
+# Lending-Club-Case-Study
 > We are working for Lending club a case study which has various types of loans to urban customers. And we are visualizing the casestudy in multiple plots to analyze their customer loans, interest rates, maximum loan amount etc.,
 
 ## Table of Contents
